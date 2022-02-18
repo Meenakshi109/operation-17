@@ -1,0 +1,10 @@
+n=int(input("enter the n value :"))
+even-sum=0
+odd-sum=0
+for i in range (1,n+1):
+if(i%2==0):
+ even - sum=even-sum+I
+else:
+ Odd-sum=odd-sum+I
+Print ("the sum of even number from 1to n:", even -sum)
+Print ("the sum of odd number from 1to n:",odd-sum)
